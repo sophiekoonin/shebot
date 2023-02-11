@@ -34,7 +34,7 @@
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.31.1",
     "eslint": "^7.23.0",
-    "nodemon": "2.0.12"
+    "nodemon": "2.0.20"
   },
   "resolutions": {
     "@types/serve-static": "^1.13.10"
